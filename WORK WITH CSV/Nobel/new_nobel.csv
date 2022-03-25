@@ -1,0 +1,116 @@
+Страна,Кол-во лауреатов,Катеории
+Kenya,1,peace
+Egypt,6,chemistry,chemistry,peace,peace,literature,peace
+China,12,medicine,literature,physics,physics,peace,chemistry,medicine,physics,physics,physics,physics,literature
+Iran,1,peace
+Italy,17,literature,medicine,literature,physics,literature,literature,economics,physics,physics,medicine,medicine,chemistry,medicine,medicine,physics,medicine,literature
+Chile,2,literature,literature
+Burma (now Myanmar),1,peace
+Germany,49,literature,physics,economics,chemistry,chemistry,medicine,medicine,physics,physics,medicine,physics,literature,medicine,chemistry,physics,physics,physics,chemistry,chemistry,chemistry,chemistry,literature,physics,chemistry,chemistry,physics,medicine,physics,chemistry,chemistry,physics,chemistry,medicine,medicine,physics,medicine,medicine,chemistry,physics,physics,physics,chemistry,chemistry,medicine,chemistry,chemistry,peace,peace,peace
+Ukraine,1,literature
+British Mandate of Palestine (now Israel),5,chemistry,economics,chemistry,chemistry,peace
+Australia,11,medicine,medicine,physics,chemistry,medicine,medicine,medicine,medicine,medicine,medicine,physics
+Germany (now Poland),8,physics,physics,physics,medicine,medicine,economics,chemistry,chemistry
+Austria-Hungary (now Czech Republic),4,medicine,chemistry,literature,medicine
+Liberia,2,peace,peace
+Yemen,1,peace
+Pakistan,1,peace
+Russian Empire (now Poland),5,chemistry,physics,literature,literature,peace
+Canada,18,literature,economics,economics,chemistry,chemistry,medicine,medicine,chemistry,physics,medicine,physics,literature,physics,medicine,chemistry,economics,physics,peace
+Denmark,9,literature,literature,medicine,medicine,physics,literature,physics,chemistry,peace
+Persia (now Iran),1,literature
+South Africa,9,literature,medicine,medicine,chemistry,medicine,peace,peace,literature,peace
+Northern Ireland,4,peace,peace,peace,peace
+Sweden,24,peace,literature,literature,physics,medicine,physics,chemistry,medicine,chemistry,chemistry,literature,medicine,medicine,medicine,medicine,medicine,economics,literature,chemistry,literature,peace,peace,peace,peace
+Ottoman Empire (now Republic of Macedonia),1,peace
+Austrian Empire (now Czech Republic),1,peace
+Prussia (now Germany),6,literature,physics,chemistry,chemistry,chemistry,physics
+France,36,literature,literature,economics,economics,literature,chemistry,physics,chemistry,physics,medicine,literature,literature,chemistry,physics,physics,chemistry,chemistry,medicine,medicine,medicine,medicine,medicine,literature,literature,medicine,chemistry,medicine,literature,chemistry,chemistry,peace,peace,peace,peace,peace,peace
+Poland,4,literature,physics,medicine,peace
+India,7,literature,economics,medicine,physics,chemistry,medicine,peace
+Spain,5,literature,literature,literature,medicine,literature
+Saint Lucia,1,literature
+USSR (now Russia),4,literature,physics,peace,physics
+United Kingdom,87,literature,economics,economics,chemistry,chemistry,chemistry,physics,physics,economics,physics,medicine,medicine,chemistry,literature,chemistry,physics,physics,chemistry,chemistry,literature,literature,physics,chemistry,physics,economics,physics,chemistry,medicine,medicine,medicine,medicine,medicine,physics,physics,medicine,physics,chemistry,chemistry,chemistry,medicine,medicine,medicine,medicine,medicine,medicine,medicine,medicine,medicine,medicine,medicine,medicine,medicine,medicine,medicine,medicine,medicine,chemistry,chemistry,physics,physics,chemistry,chemistry,chemistry,economics,physics,economics,physics,physics,chemistry,chemistry,physics,physics,chemistry,chemistry,chemistry,physics,physics,physics,medicine,literature,physics,literature,peace,peace,peace,peace,peace
+USSR (now Belarus),1,physics
+Brazil,1,medicine
+the Netherlands,17,physics,physics,economics,chemistry,physics,medicine,physics,physics,chemistry,physics,economics,physics,medicine,physics,physics,chemistry,peace
+Russia,18,physics,physics,economics,chemistry,chemistry,literature,chemistry,physics,literature,economics,physics,physics,physics,literature,literature,chemistry,medicine,peace
+Norway,10,economics,economics,literature,chemistry,economics,economics,chemistry,physics,peace,peace
+Trinidad,1,literature
+Ireland,5,literature,literature,literature,medicine,physics
+Russian Empire (now Russia),2,physics,economics
+Bavaria (now Germany),1,chemistry
+Peru,1,literature
+Hungary,6,chemistry,medicine,physics,chemistry,economics,literature
+Switzerland,9,chemistry,medicine,medicine,medicine,physics,medicine,literature,peace,peace
+Germany (now France),2,physics,peace
+Austria-Hungary (now Hungary),2,physics,chemistry
+Russian Empire (now Finland),3,literature,chemistry,medicine
+Austrian Empire (now Austria),2,chemistry,medicine
+Lithuania,1,chemistry
+Austria,11,chemistry,physics,medicine,chemistry,chemistry,physics,physics,medicine,economics,chemistry,peace
+Japan,29,medicine,medicine,literature,physics,physics,chemistry,physics,chemistry,chemistry,chemistry,physics,physics,physics,physics,physics,medicine,medicine,physics,physics,physics,physics,chemistry,medicine,physics,physics,chemistry,chemistry,literature,peace
+Belgium,5,medicine,medicine,literature,peace,peace
+Germany (now Russia),3,medicine,medicine,chemistry
+Russian Empire (now Ukraine),2,medicine,medicine
+"Java, Dutch East Indies (now Indonesia)",1,medicine
+W&uuml;rttemberg (now Germany),1,medicine
+Argentina,4,medicine,medicine,peace,peace
+Portugal,3,medicine,medicine,literature
+Ottoman Empire (now Turkey),1,literature
+Russian Empire (now Belarus),2,economics,peace
+Finland (now Russia),1,peace
+French Algeria (now Algeria),1,literature
+Austria-Hungary (now Slovenia),1,chemistry
+New Zealand,3,chemistry,chemistry,medicine
+Scotland,9,physics,chemistry,medicine,medicine,medicine,economics,chemistry,peace,peace
+Luxembourg,2,physics,medicine
+Prussia (now Poland),3,physics,medicine,medicine
+Russian Empire (now Azerbaijan),1,physics
+Austria-Hungary (now Ukraine),1,literature
+Austria-Hungary (now Bosnia and Herzegovina),1,chemistry
+Austria-Hungary (now Poland),1,physics
+India (now Pakistan),3,physics,physics,physics
+Guatemala,1,literature
+Korea (now South Korea),2,peace,chemistry
+Austria-Hungary (now Austria),1,chemistry
+Hungary (now Slovakia),1,physics
+Austria-Hungary (now Croatia),1,chemistry
+Mexico,2,literature,chemistry
+Turkey,2,chemistry,literature
+West Germany (now Germany),2,physics,physics
+Romania,4,chemistry,chemistry,medicine,peace
+British Protectorate of Palestine (now Israel),1,chemistry
+Bosnia (now Bosnia and Herzegovina),1,literature
+Cyprus,1,economics
+Taiwan,1,chemistry
+Venezuela,1,medicine
+Poland (now Lithuania),1,medicine
+British India (now Bangladesh),1,peace
+Poland (now Belarus),1,peace
+British West Indies (now Saint Lucia),1,economics
+Poland (now Ukraine),1,chemistry
+Gold Coast (now Ghana),1,peace
+East Timor,2,peace,peace
+Bulgaria,1,literature
+British India (now India),1,literature
+Faroe Islands (Denmark),1,medicine
+East Friesland (now Germany),1,literature
+Russian Empire (now Latvia),1,chemistry
+Mecklenburg (now Germany),1,medicine
+Schleswig (now Germany),2,physics,literature
+Hesse-Kassel (now Germany),1,physics
+Nigeria,1,literature
+Madagascar,1,literature
+Tibet (now People's Republic of China),1,peace
+Vietnam,1,peace
+Austrian Empire (now Italy),1,peace
+Southern Rhodesia (now Zimbabwe),1,peace
+Категория,Средня продолжительность жизни в днях,Средний возраст получения премии
+economics,31160.0,67.0
+peace,37018.0,61.0
+chemistry,31930.0,58.0
+medicine,32708.0,58.0
+literature,33468.0,65.0
+physics,29140.0,56.0

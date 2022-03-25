@@ -1,0 +1,185 @@
+{
+    "title": "Чёрная Вдова: актеры и создатели фильма",
+    "rating": "7,5",
+    "side": "2021, США, Боевики",
+    "year": "2021",
+    "country": "США",
+    "ganre": "Боевики",
+    "time": "133 минуты",
+    "img_url": "https://thumbs.dfs.ivi.ru/storage39/contents/4/c/b226e91d53f96d40384b13f5932a0b.jpg/128x196/",
+    "actors": {
+        "Режиссёр": {
+            "Кейт": {
+                "first_name": "Кейт",
+                "second_name": "Шортланд",
+                "film_count": "4 фильма",
+                "profile": "https://www.ivi.ru/person/kejt-shortland",
+                "img": "https://thumbs.dfs.ivi.ru/storage32/contents/0/9/1fee2260568fc8c0fcfc965519a0c0.jpg"
+            }
+        },
+        "Актёры": {
+            "Скарлетт": {
+                "first_name": "Скарлетт",
+                "second_name": "Йоханссон",
+                "film_count": "35 фильмов",
+                "profile": "https://www.ivi.ru/person/scarlett-johansson",
+                "img": "https://thumbs.dfs.ivi.ru/storage33/contents/f/b/722ce30ba1a228f9d1aa5650db3aea.jpg"
+            },
+            "Флоренс": {
+                "first_name": "Флоренс",
+                "second_name": "Пью",
+                "film_count": "12 фильмов",
+                "profile": "https://www.ivi.ru/person/florens-pyu",
+                "img": "https://thumbs.dfs.ivi.ru/storage6/contents/8/f/b4f09085e7f35f55c624c40f05442f.jpg"
+            },
+            "Рэйчел": {
+                "first_name": "Рэйчел",
+                "second_name": "Вайс",
+                "film_count": "27 фильмов",
+                "profile": "https://www.ivi.ru/person/rejchel-vajs",
+                "img": "https://thumbs.dfs.ivi.ru/storage37/contents/1/5/fb902a2579f48599b50977b81d5885.jpg"
+            },
+            "Дэвид": {
+                "first_name": "Дэвид",
+                "second_name": "Харбор",
+                "film_count": "16 фильмов",
+                "profile": "https://www.ivi.ru/person/devid_harbor",
+                "img": "https://thumbs.dfs.ivi.ru/storage28/contents/f/e/dec835d069bb4c11ed249776513576.jpg"
+            },
+            "О. Т. Фагбенли": {
+                "first_name": "О. Т. Фагбенли",
+                "second_name": "",
+                "film_count": "9 фильмов",
+                "profile": "https://www.ivi.ru/person/o-t-fagbenli",
+                "img": "https://thumbs.dfs.ivi.ru/storage28/contents/a/2/50c04492716e0d7e3489fb942f1fad.jpg"
+            },
+            "Уильям": {
+                "first_name": "Уильям",
+                "second_name": "Хёрт",
+                "film_count": "25 фильмов",
+                "profile": "https://www.ivi.ru/person/uilyam-hyort",
+                "img": "https://thumbs.dfs.ivi.ru/storage8/contents/3/2/4ceffab613b447b659e2878e0b0fc6.jpg"
+            },
+            "Рэй": {
+                "first_name": "Рэй",
+                "second_name": "Уинстон",
+                "film_count": "26 фильмов",
+                "profile": "https://www.ivi.ru/person/ray-winstone-5602",
+                "img": "https://thumbs.dfs.ivi.ru/storage8/contents/a/e/698b24fcbecca3aa18fb889ef0138f.jpg"
+            },
+            "Мишель": {
+                "first_name": "Мишель",
+                "second_name": "Ли",
+                "film_count": "6 фильмов",
+                "profile": "https://www.ivi.ru/person/mishel-li",
+                "img": "https://thumbs.dfs.ivi.ru/storage4/contents/e/e/2ea13153e2ef6343b691525e9ff059.jpg"
+            },
+            "Оливье": {
+                "first_name": "Оливье",
+                "second_name": "Рихтерс",
+                "film_count": "2 фильма",
+                "profile": "https://www.ivi.ru/person/olive-rihters",
+                "img": "https://thumbs.dfs.ivi.ru/storage8/contents/1/4/03a5aa3c7846ddd673fdac9cd38e3d.jpg"
+            },
+            "Эвер": {
+                "first_name": "Эвер",
+                "second_name": "Андерсон",
+                "film_count": "3 фильма",
+                "profile": "https://www.ivi.ru/person/ever-anderson",
+                "img": "https://thumbs.dfs.ivi.ru/storage6/contents/0/6/20f45639832758b6581e1fc2d292ef.jpg"
+            },
+            "Виолет": {
+                "first_name": "Виолет",
+                "second_name": "Макгроу",
+                "film_count": "5 фильмов",
+                "profile": "https://www.ivi.ru/person/violet-makgrou",
+                "img": "https://thumbs.dfs.ivi.ru/storage31/contents/6/f/10445d2f7f117f78cc7656a68f3f04.jpg"
+            },
+            "Дэниэл": {
+                "first_name": "Дэниэл",
+                "second_name": "Джозеф Вулф",
+                "film_count": "3 фильма",
+                "profile": "https://www.ivi.ru/person/deniel-dzhozef-vulf",
+                "img": "https://thumbs.dfs.ivi.ru/storage2/contents/7/0/5e8b9f0bdec157ebfb5e47bc04230d.jpg"
+            },
+            "Джон": {
+                "first_name": "Джон",
+                "second_name": "Вульф",
+                "film_count": "2 фильма",
+                "profile": "https://www.ivi.ru/person/dzhon-vulf-1",
+                "img": "https://thumbs.dfs.ivi.ru/storage8/contents/b/a/2c779d158e6b35356ee5bd2f4a395f.jpg"
+            },
+            "Чад": {
+                "first_name": "Чад",
+                "second_name": "Дж. Вагнер",
+                "film_count": "2 фильма",
+                "profile": "https://www.ivi.ru/person/chad-dzh-vagner",
+                "img": "https://thumbs.dfs.ivi.ru/storage32/contents/5/c/ce0fee682f9209fa40ba83620ddb88.jpg"
+            },
+            "Хлоя": {
+                "first_name": "Хлоя",
+                "second_name": "Лэйк",
+                "film_count": "3 фильма",
+                "profile": "https://www.ivi.ru/person/hloya-lejk",
+                "img": "https://thumbs.dfs.ivi.ru/storage3/contents/a/1/c26acf00f5e8692722d3f6b6757efb.jpg"
+            },
+            "Клем": {
+                "first_name": "Клем",
+                "second_name": "Со",
+                "film_count": "2 фильма",
+                "profile": "https://www.ivi.ru/person/klem-so",
+                "img": "https://thumbs.dfs.ivi.ru/storage15/contents/a/9/290ad55a480d0d3ea430bcd5172355.jpg"
+            }
+        },
+        "Продюсер": {
+            "Кевин": {
+                "first_name": "Кевин",
+                "second_name": "Файги",
+                "film_count": "45 фильмов",
+                "profile": "https://www.ivi.ru/person/kevin-fajgi",
+                "img": "https://thumbs.dfs.ivi.ru/storage2/contents/1/d/130088b2f7eb376c2ca8d3ffd415c6.jpg"
+            }
+        },
+        "Оператор": {
+            "Габриэль": {
+                "first_name": "Габриэль",
+                "second_name": "Беристаин",
+                "film_count": "11 фильмов",
+                "profile": "https://www.ivi.ru/person/gabriel-beristain",
+                "img": "https://thumbs.dfs.ivi.ru/storage26/contents/0/f/d87e720b47da7972d59f2b4d64f678.jpg"
+            }
+        },
+        "Сценаристы": {
+            "Стэн": {
+                "first_name": "Стэн",
+                "second_name": "Ли",
+                "film_count": "57 фильмов",
+                "profile": "https://www.ivi.ru/person/sten-li",
+                "img": "https://thumbs.dfs.ivi.ru/storage8/contents/3/5/c17b159abb187a014709c31628f9d9.jpg"
+            },
+            "Жаклин": {
+                "first_name": "Жаклин",
+                "second_name": "Шеффер",
+                "film_count": "4 фильма",
+                "profile": "https://www.ivi.ru/person/zhaklin-sheffer",
+                "img": "https://thumbs.dfs.ivi.ru/storage8/contents/e/b/b12943ed895d6b4a69c792e61dccc1.jpg"
+            },
+            "Нед": {
+                "first_name": "Нед",
+                "second_name": "Бенсон",
+                "film_count": "2 фильма",
+                "profile": "https://www.ivi.ru/person/ned-benson",
+                "img": "https://thumbs.dfs.ivi.ru/storage32/contents/5/e/6ce932b0987538a4c894d129f4e4cd.jpg"
+            }
+        },
+        "Композитор": {
+            "Александр": {
+                "first_name": "Александр",
+                "second_name": "Деспла",
+                "film_count": "19 фильмов",
+                "profile": "https://www.ivi.ru/person/aleksandr-despla",
+                "img": "https://thumbs.dfs.ivi.ru/storage8/contents/b/1/5b3c088d83a2e1c178d384ef65e9bf.jpg"
+            }
+        }
+    }
+}

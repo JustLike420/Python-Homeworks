@@ -1,0 +1,1740 @@
+Жанр,NA,EU,JP,Other
+Platform,445.5,200.35,130.83,51.09
+Racing,359.35,236.51,56.71,76.1
+Role-Playing,330.81,188.71,355.46,59.63
+Puzzle,122.87,50.01,57.31,12.38
+Misc,407.27,212.74,108.11,74.39
+Shooter,592.24,317.34,38.76,104.11
+Simulation,182.19,113.52,63.8,30.75
+Action,879.01,519.13,161.44,184.6
+Fighting,223.36,100.33,87.48,36.36
+Adventure,105.26,63.54,52.3,16.49
+Strategy,68.55,45.17,49.66,10.85
+Жанр,Кол-во игр,Год - прибыль
+NES,98,1985 - 53.44,1984 - 50.09,1988 - 45.01,1986 - 36.41,1990 - 15.74,1987 - 19.76,1989 - 7.85,1983 - 10.96,1993 - 3.61,1991 - 6.11,1992 - 1.98,1994 - 0.11
+GB,98,1996 - 36.02,1989 - 64.98,1999 - 38.01,1998 - 26.9,1992 - 25.48,2000 - 19.76,1994 - 12.17,1990 - 4.89,1995 - 3.6,2001 - 9.24,1991 - 5.57,1997 - 6.37,1988 - 1.43,N/A - 1.03
+DS,2152,2006 - 119.92,2005 - 130.22,2010 - 84.98,2009 - 119.46,2004 - 17.27,2007 - 147.26,2012 - 11.06,2008 - 145.45,2011 - 26.26,N/A - 3.37,2013 - 1.54,2020 - 0.29,1985 - 0.02
+X360,1262,2010 - 170.08,2013 - 88.58,2011 - 143.94,2012 - 99.65,2009 - 120.28,2007 - 95.43,2008 - 135.25,2006 - 51.66,2014 - 34.78,N/A - 10.24,2005 - 8.27,2015 - 11.95,2016 - 1.52
+PS3,1331,2013 - 113.17,2012 - 107.27,2011 - 156.79,2010 - 142.38,2009 - 130.89,2008 - 118.48,2007 - 73.14,2014 - 47.63,2006 - 20.95,2015 - 16.87,N/A - 8.28,2016 - 3.58
+PS2,2161,2004 - 211.78,2002 - 205.4,2001 - 166.43,2003 - 184.29,2006 - 103.42,N/A - 22.18,2007 - 76.0,2005 - 160.65,2000 - 39.11,2008 - 53.83,2009 - 26.45,2010 - 5.63,2011 - 0.47
+SNES,239,1990 - 26.16,1993 - 40.01,1994 - 35.08,1992 - 32.98,1995 - 32.21,1991 - 16.21,1996 - 15.93,1997 - 0.99,1999 - 0.26,1998 - 0.22
+GBA,822,2002 - 74.38,2004 - 78.09,2001 - 61.62,2003 - 56.73,N/A - 4.94,2005 - 33.9,2007 - 3.43,2006 - 5.35,2000 - 0.06
+PS4,393,2015 - 118.96,2014 - 99.97,2016 - 69.29,2013 - 25.97,2017 - 0.04
+3DS,520,2013 - 56.64,2011 - 63.17,2014 - 43.8,2012 - 51.36,2016 - 15.14,2015 - 27.81,N/A - 1.17
+N64,319,1996 - 34.11,1997 - 39.51,1998 - 49.28,1999 - 57.96,2000 - 34.01,2001 - 3.26,N/A - 0.67,2002 - 0.08
+PS,1197,1997 - 136.08,1999 - 144.57,1998 - 169.58,1996 - 94.68,2000 - 96.3,1995 - 35.92,2001 - 35.52,2002 - 6.69,N/A - 3.27,1994 - 6.02,2003 - 2.05
+XB,824,2004 - 65.5,2001 - 22.24,2002 - 48.15,2003 - 55.16,2005 - 49.17,N/A - 6.17,2006 - 10.15,2000 - 0.99,2007 - 0.55,2008 - 0.18
+PC,974,2009 - 16.94,2004 - 10.41,2012 - 23.28,1996 - 10.59,2010 - 24.36,1995 - 4.23,1997 - 11.26,2007 - 9.33,2011 - 35.1,2002 - 8.59,1994 - 12.86,2014 - 13.3,2000 - 4.68,2001 - 5.51,1992 - 3.03,1998 - 3.26,1999 - 4.73,2003 - 8.91,2013 - 12.4,N/A - 3.74,2008 - 12.59,2015 - 8.55,2005 - 4.41,2016 - 5.27,2006 - 2.91,1985 - 0.03,1988 - 0.03
+2600,133,1982 - 28.86,1981 - 35.77,1980 - 11.38,N/A - 10.51,1983 - 5.83,1987 - 1.98,1988 - 0.75,1989 - 0.62,1985 - 0.45,1986 - 0.66,1984 - 0.27
+PSP,1209,2005 - 43.89,2008 - 34.52,2006 - 55.45,2010 - 34.98,2007 - 47.05,2009 - 37.78,2004 - 7.11,N/A - 4.51,2011 - 17.82,2012 - 7.69,2013 - 3.14,2014 - 0.24,2015 - 0.12
+XOne,247,2015 - 60.09,2014 - 54.14,2013 - 18.94,2016 - 26.27
+WiiU,147,2014 - 22.03,2012 - 17.54,2015 - 16.33,2013 - 21.68,2016 - 4.58
+GC,556,2001 - 26.3,2003 - 50.66,2002 - 51.93,2004 - 28.89,2005 - 27.8,2006 - 11.29,N/A - 2.22,2007 - 0.27
+GEN,29,1992 - 12.66,1991 - 4.34,1990 - 2.6,1993 - 3.07,1994 - 8.11
+DC,52,1998 - 3.39,2000 - 5.99,1999 - 5.17,2001 - 1.07,2002 - 0.29,2008 - 0.04,2007 - 0.02
+PSV,432,2014 - 11.87,2011 - 4.6,2012 - 16.28,2013 - 10.58,2015 - 6.23,2016 - 4.27,N/A - 0.27,2017 - 0.02
+SAT,173,1995 - 11.58,1994 - 3.64,1996 - 7.69,1997 - 6.77,1998 - 3.82,1999 - 0.09
+SCD,6,1993 - 1.5,1994 - 0.37
+WS,6,2000 - 0.68,1999 - 0.46,2001 - 0.28
+NG,12,1994 - 0.8,1995 - 0.33,1993 - 0.21,1996 - 0.1
+TG16,2,1995 - 0.16
+3DO,3,1995 - 0.08,1994 - 0.02
+GG,1,1992 - 0.04
+PCFX,1,1996 - 0.03
+Компания,Прибыльный жанр,Сумма
+Nintendo,Sports,531.71
+Good Science Studio,Misc,21.81
+Rockstar North,Action,119.47
+Polyphony Digital,Racing,65.2
+"Infinity Ward, Sledgehammer Games",Shooter,29.77
+Treyarch,Shooter,103.16
+Infinity Ward,Shooter,77.62
+DMA Design,Action,16.52
+Game Arts,Fighting,16.7
+"Retro Studios, Entertainment Analysis & Development Division",Racing,12.66
+"Bungie Software, Bungie",Shooter,29.01
+Ubisoft,Misc,132.54
+Bungie,Shooter,16.06
+SquareSoft,Role-Playing,54.65
+343 Industries,Shooter,19.82
+Hudson Soft,Misc,12.43
+Bethesda Game Studios,Role-Playing,41.6
+EA Sports,Sports,175.38
+Bungie Software,Shooter,15.61
+Nd Cube,Misc,14.32
+Hudson,Misc,16.96
+Electronic Arts,Action,66.26
+The Sims Studio,Simulation,18.93
+Game Freak,Role-Playing,14.18
+Rockstar Leeds,Action,23.6
+Sledgehammer Games,Shooter,13.34
+"EA Sports, EA Vancouver",Sports,11.47
+Nintendo EAD Tokyo,Platform,8.7
+EA DICE,Shooter,51.01
+EA Black Box,Racing,19.17
+Ubisoft Paris,Misc,14.97
+Namco,Fighting,63.11
+Naughty Dog,Action,45.39
+HAL Labs,Platform,23.83
+EA Canada,Sports,142.32
+EA LA,Shooter,20.27
+Epic Games,Shooter,22.74
+"Pipeworks Software, Inc.",Sports,13.05
+Rockstar San Diego,Action,30.35
+Retro Studios,Platform,14.51
+Blizzard Entertainment,Role-Playing,40.75
+Reflections Interactive,Action,14.92
+Rare Ltd.,Sports,18.46
+KCEJ,Action,18.93
+Kojima Productions,Action,13.0
+Square Enix,Role-Playing,52.15
+"SCE/WWS, Media Molecule",Platform,8.36
+Capcom,Action,115.71
+Level 5,Role-Playing,34.6
+Traveller's Tales,Action,79.22
+Taito Corporation,Simulation,9.13
+Ubisoft Montreal,Action,108.31
+Turn 10,Racing,18.11
+Rocksteady Studios,Action,24.59
+Intelligent Systems,Role-Playing,25.94
+Core Design Ltd.,Action,15.17
+EA Tiburon,Sports,96.12
+Harmonix Music Systems,Misc,42.55
+Lionhead Studios,Role-Playing,10.08
+Neversoft Entertainment,Sports,61.27
+"Neversoft Entertainment, BudCat",Misc,4.98
+"Naughty Dog, SCE/WWS",Action,4.92
+SCE Santa Monica,Action,15.89
+TT Fusion,Action,18.04
+Stormfront Studios,Action,8.11
+Bluepoint Games,Action,9.26
+Vicarious Visions,Misc,56.98
+Next Level Games,Action,10.63
+Konami,Sports,72.56
+Bethesda Softworks,Role-Playing,9.69
+"Ubisoft Paris, Ubisoft Montpellier",Misc,6.87
+High Moon Studios,Shooter,12.75
+Insomniac Games,Shooter,14.55
+Mass Media,Misc,12.77
+Ready at Dawn,Action,9.54
+"SCEE, Zoe Mode",Misc,4.2
+Valve Software,Shooter,19.14
+Obsidian Entertainment,Role-Playing,13.56
+Cat Daddy Games,Misc,8.82
+Digital Eclipse,Misc,14.5
+CD Projekt Red Studio,Role-Playing,8.24
+"Ubisoft, Ubisoft Montreal",Action,8.01
+Visual Concepts,Sports,72.87
+Evolution Studios,Racing,7.92
+KCET,Sports,23.74
+"SCEA, Zindagi Games",Sports,3.84
+"Nintendo, Namco Bandai Games",Misc,3.83
+Massive Entertainment,Shooter,6.45
+Maxis,Simulation,39.97
+Argonaut Games,Action,8.09
+TOSE,Role-Playing,26.98
+Zipper Interactive,Shooter,13.88
+Pandemic Studios,Shooter,17.61
+Fox Interactive,Racing,4.66
+Office Create,Simulation,3.58
+Team Soho,Action,3.54
+EA Redwood Shores,Shooter,20.24
+Certain Affinity,Shooter,3.51
+Agenda,Misc,3.45
+Gearbox Software,Shooter,20.91
+"Kojima Productions, Moby Dick Studio",Action,4.98
+Media Molecule,Platform,4.26
+Eurocom Entertainment Software,Action,23.68
+Ubisoft Quebec,Action,8.94
+Double Helix Games,Action,8.03
+Rockstar Toronto,Shooter,6.56
+EA Games,Action,14.66
+"Splash Damage, The Coalition",Shooter,3.28
+"Luxoflux, Inc.",Action,12.09
+Shiny Entertainment,Action,7.86
+Team Bondi,Adventure,5.87
+1st Playable Productions,Adventure,5.94
+"Dimps Corporation, Sonic Team",Platform,3.12
+Indies Zero,Misc,5.04
+4J Studios,Role-Playing,3.49
+BioWare,Role-Playing,30.62
+Dimps Corporation,Fighting,18.63
+Quantic Dream,Adventure,4.93
+Volition Inc.,Action,22.86
+Guerrilla,Shooter,10.52
+Junction Point,Platform,3.23
+"Spike, Namco Bandai Games",Fighting,4.02
+"LucasArts, BioWare",Role-Playing,2.96
+Monolith Productions,Action,7.29
+Sonic Team,Platform,36.1
+Io Interactive,Action,12.63
+Respawn Entertainment,Shooter,4.91
+Sucker Punch,Action,11.42
+Sumo Digital,Sports,11.16
+Clap Hanz,Sports,8.61
+OfficeCreate,Simulation,2.89
+Spark Unlimited,Shooter,5.41
+NetherRealm Studios,Fighting,8.34
+"Irrational Games, 2K Marin",Shooter,3.24
+"Majesco Games, Majesco",Sports,3.5
+"EA DICE, Danger Close",Shooter,2.81
+Virtual Toys,Simulation,5.6
+NuFX,Sports,4.48
+Criterion Games,Racing,20.27
+Toys for Bob,Action,18.73
+"Warner Bros. Interactive Entertainment, NetherRealm Studios",Fighting,4.16
+Edge of Reality,Simulation,7.7
+LucasArts,Action,15.47
+Artoon,Platform,4.79
+Namco Bandai Games,Fighting,12.2
+Dreamworks Interactive,Shooter,3.64
+Big Blue Box,Role-Playing,2.66
+DC Studios,Action,3.67
+Ubisoft Shanghai,Action,11.47
+Slightly Mad Studios,Racing,6.1
+Team Fusion,Shooter,4.55
+Angel Studios,Racing,3.6
+Ensemble Studios,Strategy,3.39
+"Dice, Danger Close",Shooter,3.1
+syn Sophia,Simulation,3.31
+Yuke's,Fighting,47.5
+Genius Sonority Inc.,Role-Playing,6.03
+Acclaim Studios Cheltenham,Racing,4.19
+Headstrong Games,Misc,4.32
+CAProduction,Sports,3.67
+Raven Software,Role-Playing,9.42
+Midway,Fighting,32.24
+From Software,Role-Playing,18.31
+Black Rock Studio,Racing,4.11
+Cyan Worlds,Adventure,2.45
+THQ,Action,23.85
+Rainbow Studios,Racing,21.14
+Black Box,Racing,11.13
+Bullfrog Productions,Strategy,5.22
+Konami Computer Entertainment Hawaii,Adventure,5.32
+Techland,Action,12.56
+Heavy Iron Studios,Platform,15.21
+Frontier Developments,Misc,6.64
+GREZZO,Action,2.34
+"Rare Ltd., BigPark",Sports,2.34
+ArenaNet,Action,2.42
+WB Games Montreal,Action,4.17
+"HAL Labs, Creatures Inc.",Role-Playing,2.28
+Backbone Entertainment,Misc,10.54
+Sega,Misc,15.76
+Exakt,Shooter,6.84
+TT Games,Action,39.96
+2K Marin,Shooter,4.49
+5TH Cell,Puzzle,6.45
+Beenox,Action,6.7
+Amaze Entertainment,Action,9.99
+Bizarre Creations,Racing,5.65
+Omega Force,Action,27.38
+Visceral Games,Shooter,12.06
+Blue Planet Software,Puzzle,2.08
+Matrix Software,Role-Playing,4.68
+Full Fat,Simulation,5.24
+Helixe,Action,7.34
+EA Vancouver,Racing,3.73
+Ubisoft Montpellier,Action,13.51
+ChunSoft,Role-Playing,4.32
+Midway Studios - San Diego,Puzzle,3.11
+Acquire,Action,4.82
+h.a.n.d. Inc.,Role-Playing,5.1
+Ghost Games,Racing,4.98
+Check Six Games,Platform,1.97
+"PLAYGROUND, Playground Games",Racing,1.96
+Aki Corp.,Fighting,5.4
+"Flagship, HAL Labs",Platform,1.94
+Jellyvision,Misc,2.1
+Art,Adventure,3.98
+Irrational Games,Shooter,4.31
+"Nintendo, Nd Cube",Misc,4.21
+NanaOn-Sha,Simulation,4.72
+Factor 5,Simulation,2.7
+Papaya Studios,Misc,6.52
+SCEI,Role-Playing,3.56
+Krome Studios,Action,11.92
+Avalanche Studios,Action,6.55
+Jupiter Corporation,Role-Playing,6.43
+Rockstar Studios,Shooter,3.9
+Altron,Action,10.43
+Creative Assembly,Strategy,9.46
+Sega AM2,Fighting,5.04
+Hangar 13,Action,2.62
+BudCat,Misc,6.46
+Tango Gameworks,Action,4.03
+SCEE London Studio,Misc,13.84
+Genuine Games,Action,2.5
+Team Ninja,Action,10.86
+Camelot Software Planning,Sports,8.98
+Red Storm Entertainment,Shooter,5.81
+VIS Entertainment,Action,2.7
+Realtime Worlds,Shooter,1.75
+Monolith Soft,Role-Playing,4.64
+Terminal Reality,Action,7.5
+"Ready at Dawn, SCE Santa Monica",Shooter,2.56
+SCE Japan Studio,Platform,7.73
+ArtePiazza,Role-Playing,5.18
+"Ubisoft Reflections, Ivory Tower",Racing,2.52
+Tri-Ace,Role-Playing,7.03
+Arkane Studios,Action,4.3
+3d6 Games,Puzzle,2.01
+Magic Pockets,Simulation,8.08
+Artefacts Studio,Misc,3.07
+Hello Games,Action,1.7
+Activision,Sports,17.01
+Griptonite Games,Action,15.98
+Webfoot Technologies,Role-Playing,5.86
+Farsight Studios,Misc,4.27
+Firaxis Games,Strategy,6.82
+Bandai Namco Games,Role-Playing,10.91
+Rebellion,Shooter,10.2
+Shaba Games,Sports,5.78
+Artificial Mind and Movement,Action,17.87
+Paradigm Entertainment,Racing,4.76
+EA Chicago,Fighting,6.31
+SuperMassive Games,Adventure,2.05
+HB Studios Multimedia,Sports,3.56
+EA Sports Big,Sports,2.63
+Spike,Fighting,7.53
+Ninja Theory,Action,3.97
+EA Montreal,Shooter,7.0
+id Software,Shooter,4.48
+Avalanche Software,Platform,12.71
+Capcom Vancouver,Action,2.22
+Pivotal Games,Shooter,3.34
+MachineGames,Shooter,4.17
+2K Czech,Action,4.54
+Mind Candy,Misc,1.54
+"Naughty Dog, Sony Bend",Shooter,1.53
+Cavia Inc.,Action,6.1
+The Code Monkeys,Sports,1.54
+Amusement Vision,Puzzle,5.65
+"Genius Sonority Inc., Disney Interactive Studios",Adventure,1.51
+Sports Interactive,Sports,8.26
+Genki,Racing,3.23
+Blue Castle Games,Action,5.59
+Barking Lizards,Adventure,1.48
+Zoe Mode,Misc,5.87
+Kush Games,Sports,8.39
+Nihilistic,Action,2.58
+WayForward,Platform,6.93
+Kaos Studios,Shooter,2.93
+Hellbent Games,Strategy,2.83
+Blitz Games,Misc,11.7
+BigPark,Racing,1.43
+Planet Moon Studios,Misc,2.46
+"Blue Byte, Related Designs",Strategy,1.81
+EA Bright Light,Action,10.95
+"Digital Extremes, 2K Marin",Shooter,1.42
+Sand Grain Studios,Sports,6.11
+Flagship,Action,1.42
+PlatinumGames,Action,7.5
+Danger Close,Action,2.89
+Barnstorm Games,Misc,1.41
+Incognito Inc.,Racing,4.43
+Exient Entertainment,Sports,9.82
+Codemasters,Racing,22.09
+Playground Games,Racing,2.48
+Arzest,Platform,1.38
+Crytek,Action,8.05
+Crystal Dynamics,Action,10.97
+"Sega, Sonic Team",Platform,1.79
+"Z-Axis, Ltd.",Sports,5.0
+Now Production,Action,5.32
+Eidos Montreal,Shooter,3.29
+"Square Enix, Think and Feel",Role-Playing,1.37
+The Coalition,Shooter,1.35
+Pitbull Syndicate,Racing,1.76
+Codemasters Birmingham,Racing,3.55
+Rockstar Vienna,Shooter,1.34
+Remedy Entertainment,Action,2.66
+Steel Monkeys,Racing,1.57
+Acclaim,Racing,8.41
+Radical Entertainment,Action,14.14
+Good-Feel,Platform,1.3
+SCEA,Sports,5.71
+"Namco Bandai Games America, Namco Bandai Games",Fighting,2.44
+Creatures Inc.,Role-Playing,3.21
+Pocket Studios,Platform,1.64
+M2,Misc,1.38
+Melbourne House,Shooter,2.29
+Ubisoft Sofia,Action,1.42
+ZeniMax Media,Role-Playing,2.18
+Snowblind Studios,Role-Playing,5.44
+"Lexis Numerique, Virtual Toys",Simulation,3.2
+"Opus, Project Sora",Action,1.27
+"Nintendo, Spike Chunsoft",Role-Playing,1.27
+CyberConnect2,Fighting,12.61
+3G Studios,Sports,1.34
+Tamsoft,Fighting,2.5
+"THQ, Yuke's",Action,1.27
+Virtuos,Racing,6.19
+Nixxes Software,Action,2.41
+Slant Six,Action,3.67
+"Tarsier Studios, Double Eleven",Platform,1.25
+"Spike Chunsoft Co. Ltd., Spike Chunsoft",Role-Playing,1.25
+Chris Sawyer,Strategy,1.29
+49Games,Sports,2.43
+Oddworld Inhabitants,Platform,3.22
+High Voltage Software,Action,13.8
+neo Software,Shooter,1.22
+Savage Entertainment,Shooter,2.22
+Nex Entertainment,Shooter,3.21
+Surreal Software,Action,2.36
+Climax Group,Racing,8.77
+Locomotive Games,Racing,1.86
+"Nintendo, Nintendo Software Technology",Puzzle,1.26
+"Omega Force, Tecmo Koei Games",Action,1.18
+Light Weight,Fighting,1.74
+City Interactive,Shooter,4.59
+Vingt-et-un Systems,Action,2.26
+K2 LLC,Action,2.24
+Ambrella,Action,2.29
+Day 1 Studios,Shooter,3.91
+"Level 5, Brownie Brown",Role-Playing,1.13
+United Front Games,Action,3.15
+Ryu ga Gotoku Studios,Action,3.42
+Atlus,Role-Playing,7.69
+Ruffian Games,Shooter,1.12
+Mercury Steam,Action,2.11
+MTO,Simulation,3.07
+"EA Redwood Shores, EA Salt Lake",Shooter,1.09
+Sony Online Entertainment,Role-Playing,2.3
+Big Sky Software,Platform,1.37
+Visual Impact,Simulation,3.18
+Ubisoft Shanghai/Paris,Shooter,1.08
+PopCap,Shooter,5.96
+"Electronic Arts, Rebellion",Action,2.08
+SCEE,Misc,4.15
+Page 44 Studios,Sports,5.74
+FreeStyleGames,Misc,6.2
+"Mad Doc Software, Rockstar Vancouver",Action,1.09
+Blizzard North,Role-Playing,1.19
+Arika,Adventure,3.53
+Barnhouse Effect,Racing,1.15
+Vigil Games,Action,3.16
+n-Space,Shooter,7.35
+Black Lantern Studios,Simulation,5.79
+Microsoft Game Studios,Sports,4.66
+Sega AM3,Sports,1.05
+Tecmo,Simulation,4.84
+8ing/Raizing,Fighting,2.56
+"Electronic Arts, EA Redwood Shores",Action,1.03
+Splash Damage,Shooter,1.96
+Studio Liverpool,Racing,2.27
+"Red Storm Entertainment, Ubisoft Paris",Shooter,2.05
+"Tantalus Interactive, Tantatus, Nintendo",Action,1.03
+"Crystal Dynamics, Nixxes Software",Action,1.5
+Avanquest Software,Misc,1.5
+Bigbig Studios,Racing,1.65
+EA Salt Lake,Sports,4.06
+Longtail Studios,Misc,1.26
+Powerhead Games,Simulation,2.49
+"Epic Games, People Can Fly",Shooter,1.71
+"Sega, Dimps Corporation",Platform,1.02
+Koei,Strategy,5.88
+Hyde,Adventure,1.01
+Project Aces,Simulation,3.76
+"Team Ninja, Tecmo",Action,1.19
+Razorworks Studios,Racing,1.97
+989 Sports,Sports,8.29
+UBlart Montpellier,Platform,3.1
+Free Radical Design,Shooter,3.94
+DreamFactory,Action,1.17
+Incinerator Games,Racing,3.39
+Route 1 Games,Puzzle,0.99
+Rockstar London,Racing,1.85
+Ubisoft Toronto,Action,2.23
+Double Fine Productions,Action,2.55
+Turtle Rock Studios,Shooter,1.79
+Giants Software,Simulation,2.46
+"Vicarious Visions, Neversoft Entertainment",Misc,0.96
+Blue Tongue Entertainment,Platform,3.3
+Overworks,Platform,1.27
+Monster Games Inc.,Racing,3.92
+Atari,Misc,2.05
+Coresoft,Misc,2.2
+SuperBot Entertainment,Action,0.95
+Ubisoft Reflections,Racing,1.99
+Monkey Bar Games,Action,3.87
+Alfa System,Role-Playing,2.62
+Buzz Monkey,Sports,1.4
+Rockstar Vancouver,Action,0.94
+SCEA San Diego Studios,Sports,11.42
+Neko Entertainment,Simulation,2.8
+"Square Enix, h.a.n.d. Inc.",Role-Playing,0.93
+UDS,Racing,1.66
+KCE Studios,Action,1.85
+Titus Software,Simulation,1.14
+Black Ops Entertainment,Action,2.87
+ImaginEngine,Misc,2.16
+Tantalus Interactive,Racing,4.04
+"Mistwalker, Artoon",Role-Playing,1.6
+Marvelous AQL,Action,1.81
+Xpec,Action,2.35
+Mistwalker,Role-Playing,1.02
+Blitz Games Studios,Sports,3.69
+KCEK,Platform,1.05
+Sony Bend,Shooter,3.26
+RED Entertainment,Role-Playing,1.27
+FASA Studio,Simulation,1.34
+Runecraft,Shooter,1.61
+Big Huge Games,Role-Playing,2.15
+"Media Molecule, United Front Games",Action,0.87
+SCi,Shooter,0.88
+Cooking Mama Limited,Simulation,2.62
+Disney Interactive Studios,Misc,3.58
+Red Fly Studio,Action,2.02
+Cygames,Role-Playing,0.86
+Rage Software,Fighting,1.52
+Toolbox Design,Racing,0.86
+Team 17,Strategy,3.07
+"Dimps Corporation, Namco Bandai Games",Fighting,1.34
+Land Ho!,Sports,1.54
+Asobo Studio,Action,5.53
+Eutechnyx,Racing,4.66
+"Gearbox Software, 3D Realms",Shooter,2.0
+Digital Anvil,Shooter,0.88
+"Treyarch, Sledgehammer Games",Shooter,0.82
+Marvelous Entertainment,Simulation,1.87
+EA Seattle,Racing,1.62
+Big Blue Bubble Inc.,Puzzle,1.54
+Indie Built,Sports,1.41
+Ludia Inc.,Misc,3.69
+Evolution Games,Platform,1.05
+Atlus Co.,Role-Playing,3.21
+"Capcom, Pipeworks Software, Inc.",Action,1.25
+Gevo Entertainment,Simulation,0.81
+Gorilla Systems,Adventure,2.09
+Guerilla Cambridge,Shooter,0.91
+Marvelous,Role-Playing,1.53
+Gorilla Games,Sports,1.2
+Deibus Studios,Racing,1.0
+"Square Enix, Tri-Ace",Role-Playing,1.51
+Novarama,Strategy,1.43
+"Sumo Digital, Playground Games",Racing,0.78
+Trilobyte,Adventure,0.78
+Silicon Knights,Action,2.33
+Digital Illusions,Shooter,4.68
+"Kush Games, Visual Concepts",Sports,1.39
+iNiS,Misc,2.18
+"EA Canada, Nihilistic",Fighting,1.43
+Eden Studios,Racing,1.97
+David A. Palmer Productions,Action,0.97
+"Artificial Mind and Movement, Polygon Magic",Shooter,0.77
+Acclaim Studios Austin,Sports,1.99
+"Tetris Online, Inc",Puzzle,1.32
+Dancing Dots,Simulation,1.23
+Piranha Games,Sports,1.78
+"LucasArts, Red Fly Studio",Action,0.76
+Game Republic,Action,2.37
+Project Soul,Fighting,1.33
+Kouyousha,Sports,1.25
+Propaganda Games,Action,2.23
+JGI Entertainment,Fighting,0.97
+Digital Extremes,Shooter,2.89
+Brownie Brown,Role-Playing,1.09
+Natsume,Action,4.77
+Arc System Works,Fighting,7.08
+Takara,Action,1.34
+"CyberConnect2, Racjin",Fighting,1.17
+Dearsoft,Sports,0.73
+Paradox Development,Fighting,2.62
+2K Australia,Shooter,1.62
+Realism Ltd,Puzzle,0.72
+Bandai,Simulation,2.87
+Human Soft,Adventure,2.7
+Jester Interactive,Racing,1.3
+Equinoxe,Platform,0.71
+Pacific Coast Power & Light,Racing,2.23
+"Koei, Omega Force",Action,2.73
+"id Software, Nerve Software",Shooter,0.71
+"Eighting, Genius Sonority Inc.",Role-Playing,0.7
+Reality Pump,Role-Playing,1.9
+Virtucraft,Action,0.96
+Illusion Softworks,Action,0.97
+"SCEA, Sims",Platform,0.7
+Kalypso,Simulation,0.94
+Midway Studios - Los Angeles,Action,1.0
+Ubisoft Milan,Sports,0.96
+Fuse Games Limited,Misc,0.94
+Pyramid,Fighting,0.96
+Hypnos Entertainment,Action,0.69
+Black Isle Studios,Role-Playing,0.98
+Gaijin Entertainment,Simulation,2.43
+Eden,Racing,1.49
+Blue Fang Games,Simulation,1.69
+Sanzaru Games,Platform,2.97
+Tomy Corporation,Fighting,0.86
+Secret Level,Action,3.12
+Nerve Software,Shooter,1.12
+Trion Worlds,Shooter,1.8
+"BioWare, Demiurge Studios",Role-Playing,0.67
+Engine Software,Action,1.49
+"RED Entertainment, Artdink",Role-Playing,0.67
+Cunning Developments,Simulation,0.74
+Starbreeze,Shooter,2.74
+Delphine Software International,Role-Playing,0.67
+Gameloft,Racing,2.06
+Grasshopper Manufacture,Action,3.44
+"Shift, Bandai Namco Games",Action,0.93
+"Dimps Corporation, SCE Japan Studio",Role-Playing,0.65
+"Krome Studios, Screenlife Games",Misc,0.65
+Suzak,Platform,0.86
+Iron Galaxy Studios,Shooter,1.03
+GenePool,Platform,0.97
+Ubisoft Casablanca,Platform,1.02
+Epicenter Studios,Action,0.74
+KCEA,Misc,0.75
+Adrenium,Platform,0.96
+Juice Games,Racing,3.02
+"id Software, Raven Software",Shooter,1.24
+SEGA Racing Studio,Racing,1.09
+Clover Studio,Action,2.18
+SuperVillain Studios,Action,1.04
+"EA Sports, EA Canada",Sports,1.11
+MagicWand,Sports,0.73
+"Media Vision, Contrail",Role-Playing,0.62
+Paon Corporation,Racing,1.37
+Lab Rats Games,Sports,0.66
+Vicious Cycle,Shooter,2.6
+Cinegroupe,Platform,0.87
+High Impact Games,Platform,2.09
+Skyworks Technologies,Racing,1.46
+Robomodo,Sports,2.74
+"Ascaron Entertainment GmbH, Ascaron Entertainment",Role-Playing,1.21
+2K Sports,Sports,3.35
+FUN Labs,Sports,7.8
+Appaloosa Interactive,Action,0.89
+Vanillaware,Role-Playing,2.01
+Endemol,Misc,1.79
+Dreamworks Games,Shooter,0.59
+Atomic Planet Entertainment,Platform,1.95
+Coldwood Interactive,Fighting,0.73
+"Valuewave Co.,Ltd.",Action,1.05
+Pam Development,Action,2.44
+Ubisoft Romania,Action,2.39
+Spicy Horse,Adventure,1.2
+Overkill Software,Shooter,1.05
+Midway Studios - Austin,Shooter,1.62
+Bunkasha Publishing,Racing,0.57
+Nippon Ichi Software,Role-Playing,4.38
+Neverland,Role-Playing,3.47
+Silicon Studio,Role-Playing,1.06
+"Namco Bandai Games, Bandai Namco Games",Role-Playing,0.56
+Vanilla Ware,Role-Playing,0.61
+Full-Fat,Puzzle,0.99
+Etranges Libellules,Platform,3.89
+Relic,Shooter,2.58
+Collision Studios,Sports,1.61
+Anchor,Fighting,1.41
+Racjin,Role-Playing,3.1
+Magenta Software,Misc,0.77
+Awesome Studios,Puzzle,0.56
+Behaviour Interactive,Action,2.55
+Pipe Dream Interactive,Shooter,1.31
+Bullets,Role-Playing,0.9
+Aspect,Action,1.19
+Deep Space,Action,0.55
+Inti,Platform,1.31
+Bam Entertainment,Fighting,0.88
+THQ Digital Studio Phoenix,Racing,1.01
+Brain Toys,Simulation,0.89
+Hothouse Creations,Misc,0.6
+Nuevo Retro Games,Puzzle,0.55
+Digital Kids,Simulation,2.29
+Yager,Shooter,1.24
+"Omega Force, Koei Tecmo Games",Action,0.77
+4A Games,Action,1.74
+Cing,Adventure,1.31
+WXP,Shooter,1.28
+Cerasus Media,Misc,0.81
+Inevitable Entertainment,Platform,0.82
+Destineer,Sports,2.4
+Eighting,Fighting,1.49
+SCEA Sports Studio,Sports,0.75
+Keen Games,Action,1.42
+Storm City Games,Puzzle,0.85
+ValuSoft,Misc,0.76
+"High Voltage Software, Ubisoft Paris",Shooter,0.53
+GRIN,Shooter,2.18
+Q-Games,Shooter,0.65
+Raster,Shooter,0.53
+Vivarium,Simulation,0.63
+VU Games,Adventure,0.86
+"Machatin, Inc.",Simulation,0.78
+Point of View,Sports,5.48
+"City Interactive, Deck 13",Role-Playing,0.77
+T&E Soft,Sports,0.85
+"Climax Group, Climax Studios",Action,2.21
+HexaDrive,Role-Playing,0.51
+"Jupiter Corporation, Jupiter Multimedia",Role-Playing,0.51
+Blade Interactive,Racing,0.73
+"Factor 5, SCE/WWS",Action,0.51
+"SCE Japan Studio, comcept",Role-Playing,0.51
+WBIE,Role-Playing,0.74
+Warthog,Platform,2.13
+AWE Games,Adventure,0.93
+Contraband Entertainment,Misc,0.5
+Eugen Systems,Strategy,1.05
+Quest,Role-Playing,0.5
+Kuusou Kagaku,Role-Playing,0.63
+HandMade Game,Adventure,0.5
+7 Studios,Action,3.2
+Blue Tongue,Platform,0.73
+SCS Software,Simulation,0.62
+Humongous Entertainment,Sports,1.0
+Pocketeers,Racing,1.2
+"Harmonix Music Systems, Backbone Entertainment",Misc,0.48
+"Scholastic, Inc.",Adventure,0.53
+"Screenlife Games, WXP",Misc,0.48
+Totally Games,Simulation,0.87
+Ratbag,Racing,0.97
+SCEJ,Puzzle,0.87
+Razorworks,Racing,0.74
+New,Fighting,0.47
+Beyond Games,Racing,0.58
+Teyon,Action,0.77
+"Ubisoft Barcelona, Ubisoft Reflections",Racing,0.47
+"Eurocom Entertainment Software, Visceral Games",Shooter,0.47
+"Nintendo, Headstrong Games",Action,0.46
+Shin'en,Shooter,1.08
+Creations,Platform,0.5
+Crave,Misc,2.81
+Vatra,Action,0.46
+Treasure,Fighting,1.58
+"Human Soft, Ivolgamus",Adventure,0.88
+Eighting/Raizing,Fighting,1.02
+505 Games,Simulation,3.29
+Studio Gigante,Fighting,0.72
+Wideload Games Inc.,Misc,0.67
+"Farsight Studios, Crave",Sports,0.56
+Computer Artworks,Adventure,0.64
+Saffire,Action,1.18
+"Nintendo, Camelot Software Planning",Sports,0.44
+"Team 17, Two Tribes",Strategy,0.79
+"Square Enix, TOSE",Action,0.44
+Kuju Entertainment,Shooter,2.22
+Humagade,Simulation,0.75
+Q Entertainment,Shooter,1.58
+Tri-Crescendo,Role-Playing,1.22
+Tenyo,Puzzle,0.43
+"LucasArts, Krome Studios",Action,1.11
+"Idea Factory, Compile Heart",Role-Playing,0.73
+Kamui,Role-Playing,0.43
+"Ubisoft, Sensory Sweep",Misc,0.82
+War Drum Studios,Action,0.54
+TOYBOX,Role-Playing,0.56
+Sunrise Interactive,Simulation,0.43
+Hijinx Studios,Puzzle,1.18
+Game Machine Studios,Action,0.68
+Mastiff,Sports,0.97
+Gust,Role-Playing,2.32
+"Ritual Entertainment, Avalanche Software",Shooter,0.59
+D3Publisher,Action,1.35
+Psygnosis,Racing,1.01
+Armature Studio,Action,0.69
+RedLynx,Racing,1.01
+Creat Studios,Racing,1.7
+Phoenix Games Studio,Simulation,0.74
+"Nintendo, Intelligent Systems",Role-Playing,0.42
+Telegames,Misc,0.58
+Bluehole Studio,Role-Playing,0.42
+Spike Chunsoft,Action,2.01
+"Red Storm Entertainment, Ubisoft Montreal",Shooter,0.81
+Saber Interactive,Shooter,0.72
+Idol Minds,Sports,1.28
+Maximum Games,Simulation,0.41
+Knowledge Adventure Inc.,Adventure,0.51
+"Harmonix Music Systems, Demiurge Studios",Misc,0.82
+Shift,Role-Playing,0.9
+Torus Games,Racing,3.58
+Triumph Studios,Action,1.09
+DONTNOD Entertainment,Adventure,1.13
+Twisted Pixel Games,Shooter,0.4
+Zoo Games,Racing,2.3
+Zen Studios,Action,0.43
+Victor Interactive Software,Simulation,0.72
+"Frogwares, Mistic Software",Adventure,0.39
+Firebrand Games,Racing,3.19
+Prope,Sports,0.82
+Wow Entertainment,Shooter,1.2
+"Monolith Soft, Banpresto",Role-Playing,0.39
+Sega Studios San Francisco,Action,0.99
+Ganbarion,Action,1.57
+Milestone S.r.l,Racing,3.78
+Red Tribe,Action,0.98
+Red Zone Entertainment,Sports,0.38
+Amuze,Action,0.44
+Uacari,Misc,0.38
+Bugbear,Racing,1.71
+Cyberlore Studios,Strategy,0.67
+Lightning Fish Games,Sports,0.58
+Crafts & Meister,Fighting,0.37
+Open Sesame,Sports,0.37
+3DO,Sports,2.8
+Blueside,Role-Playing,0.37
+Arcade Moon,Sports,1.0
+Noise Inc.,Role-Playing,0.53
+2K Games,Shooter,1.0
+Psyonix,Sports,0.73
+Playbox Limited,Simulation,0.37
+Takara Tomy,Fighting,1.04
+KCEO,Sports,0.61
+Zombie Studios,Action,0.78
+"Bandai Namco Games, Artdink",Role-Playing,0.61
+Pax Softonica,Action,0.36
+Zener Works,Role-Playing,0.36
+"RED Entertainment, Spike Chunsoft",Role-Playing,0.36
+Cattle Call,Role-Playing,0.72
+Inland Productions,Racing,0.48
+Take-Two Interactive,Sports,2.87
+CokeM Interactive,Action,1.01
+ITL,Simulation,0.57
+Sandlot,Shooter,0.84
+Hypnotix,Sports,1.06
+Vir2L Studios,Sports,0.35
+Airtight Games,Action,1.45
+Deep Silver Dambuster Studios,Shooter,0.53
+WildTangent,Misc,0.35
+Destination Software,Racing,0.91
+Brash Entertainment,Platform,0.64
+Haemimont,Strategy,1.6
+"High Voltage Software, Backbone Entertainment",Adventure,0.94
+Nadeo,Action,0.42
+Impulse Games,Misc,0.54
+Sennari Interactive,Action,0.51
+Gas Powered Games,Strategy,0.73
+Tantatus,Action,0.71
+Starfish,Misc,0.89
+Buena Vista Interactive,Racing,0.34
+Cohort Studios,Shooter,0.34
+"Ubisoft, Powerhead Games",Simulation,0.34
+"EA Canada, EA Vancouver",Sports,0.57
+Inti Creates,Platform,1.61
+Fizz Factor,Action,0.33
+Ion Storm,Action,0.72
+SNK Playmore,Fighting,3.29
+Smart Bomb Interactive,Action,0.52
+"Amaze Entertainment, Griptonite Games",Action,0.33
+SunSoft,Adventure,0.42
+"Lancarse, Atlus",Role-Playing,0.33
+"Capcom, Klein Computer Entertainment",Misc,0.33
+"Terminal Reality, 4mm Games",Misc,0.94
+AI,Puzzle,0.77
+Eidos Interactive,Strategy,0.84
+Smack Down Productions,Misc,0.77
+Nobilis,Simulation,0.35
+Polygon Magic,Fighting,0.58
+"Buzz Monkey, EA Montreal",Shooter,0.32
+"Atlus, Dingo Inc.",Misc,0.32
+Opus,Fighting,1.54
+Venom Games,Action,1.02
+"Game Republic, JapanStudio",Role-Playing,0.32
+CodeFire,Misc,0.32
+Phantagram,Strategy,0.47
+"Mercury Steam, Alchemic Productions",Shooter,0.53
+SScholastic Media,Adventure,0.48
+Access Games,Role-Playing,1.05
+"Image Epoch, Imageepoch",Role-Playing,1.81
+Human Head Studios,Action,0.68
+Big Red Button Entertainment,Action,0.31
+Blue Byte,Strategy,1.06
+Wildfire Studios,Action,0.31
+MumboJumbo,Puzzle,1.02
+Sidhe Interactive,Racing,2.05
+"Inti, Inti Creates",Platform,0.31
+Magix,Misc,0.31
+Mucky Foot Productions,Action,0.44
+Denyu-Sha,Puzzle,0.31
+Ronin Entertainment,Fighting,0.31
+Disney Interactive,Platform,0.7
+Artdink,Fighting,0.57
+Shade,Role-Playing,0.31
+Prolific,Racing,0.3
+SCE Studio Cambridge,Adventure,0.64
+Sinister Games,Racing,0.3
+"Banpresto, SoftMax",Role-Playing,0.3
+Mahou,Sports,0.3
+Graphic State,Racing,0.38
+Wizarbox,Simulation,0.46
+Hyperspace Cowgirls,Platform,0.3
+Related Designs,Simulation,0.3
+The Workshop,Action,0.29
+"Neversoft Entertainment, Underground Development",Misc,0.29
+Simon & Schuster,Sports,0.35
+Banpresto,Adventure,0.3
+DoubleTap Games,Puzzle,0.29
+Mistic Software,Sports,1.2
+IR Gurus,Simulation,0.45
+LightBox Interactive,Action,0.29
+Akella,Role-Playing,0.31
+Game Brains,Puzzle,0.29
+Circus Freak,Racing,0.42
+Infinite Interactive,Puzzle,1.14
+Wargaming.net,Shooter,0.31
+Game Titan,Platform,0.29
+Sacnoth,Role-Playing,0.28
+Cave,Shooter,0.48
+Sanuk Games,Misc,0.4
+Just Add Monsters,Fighting,0.28
+Sims,Sports,0.45
+Volatile Games,Shooter,0.49
+Media Vision,Role-Playing,1.47
+Ignition Entertainment,Action,0.72
+Zindagi Games,Action,0.28
+Zoom,Shooter,0.28
+Sensory Sweep,Misc,1.27
+Telltale Games,Adventure,1.72
+Sega Toys,Simulation,0.28
+Presto Studios,Adventure,0.34
+Ornith,Sports,0.27
+"Zoe Mode, HB Studios Multimedia",Misc,0.72
+"Activision, FreeStyleGames",Misc,0.46
+Attention To Detail,Sports,0.69
+Crawfish Interactive,Racing,0.66
+"Rockstar Toronto, Rockstar Leeds",Action,0.27
+HotGen,Sports,1.01
+Amble,Action,0.33
+Gusto Games,Puzzle,0.63
+"GameMill Publishing, 1st Playable Productions",Misc,0.36
+The Learning Company,Misc,0.27
+"Mac Play, MacPlay",Puzzle,0.28
+Ubisoft Vancouver,Sports,0.96
+Majesco Games,Action,0.52
+TimeGate Studios,Shooter,0.31
+Pacific Century Cyber Works,Misc,0.26
+"LDW, Big Fish Games",Simulation,0.26
+"Rocksteady Studios, Virtuos",Action,0.37
+Smilebit,Shooter,0.82
+Blue Shift,Sports,0.73
+"Rovio Mobile, Rovio Entertainment",Action,0.75
+Metro,Misc,0.38
+iWin,Simulation,0.49
+"Treyarch, Shaba Games",Action,0.74
+Prokion,Role-Playing,0.26
+2K Shanghai,Sports,0.26
+Artech Studios,Simulation,0.82
+Crispy's,Action,0.26
+Left Field Productions,Racing,1.36
+Mitchell,Puzzle,0.4
+Activision Value,Misc,0.32
+"Cyanide, Cyanide Studios",Role-Playing,0.57
+AQ Interactive,Simulation,0.57
+Starfish SD,Misc,0.53
+FuRyu,Role-Playing,0.5
+Sony Interactive Entertainment,Misc,0.26
+InXile Entertainment,Action,1.08
+2015,Shooter,0.25
+Tornado Studios,Simulation,0.27
+Stainless Games,Misc,0.46
+ZootFly,Action,0.46
+Empire Interactive,Simulation,0.43
+Southend Interactive,Shooter,0.25
+Amaze,Action,0.25
+Y's K,Simulation,0.25
+Data Design Interactive,Misc,1.16
+Bec,Role-Playing,0.8
+"Io Interactive, Nixxes Software",Action,0.24
+Handheld Games,Misc,0.74
+"Tamsoft, D3Publisher",Action,0.24
+Falcom,Role-Playing,1.54
+Metro Graphics,Misc,0.24
+Lucky Chicken,Racing,0.62
+"Matrix Software, Marvelous Entertainment",Role-Playing,0.24
+Nautilus,Role-Playing,0.38
+Hasbro Interactive,Shooter,0.24
+Frogwares,Adventure,0.74
+Oxygen Interactive,Sports,0.64
+Revolution Software,Adventure,0.49
+Larian Studios,Role-Playing,0.49
+Blueshift,Sports,0.23
+Compile Heart,Role-Playing,1.07
+SolWorks,Sports,0.23
+Magic Pixel Games,Misc,0.23
+Gratuitous Games,Sports,0.58
+Sanrio Digital,Adventure,0.23
+Griffin International,Sports,0.32
+K2,Role-Playing,0.45
+"Hudson, NATSUME ATARI Inc.",Sports,0.23
+Jet Black Games,Sports,0.43
+Bits Studios,Action,0.74
+Piranha Bytes,Role-Playing,1.2
+Alphadream Corporation,Sports,0.22
+Tecmo Koei Games,Adventure,0.22
+Phoenix Interactive Entertainment,Adventure,0.43
+"Tecmo, Ntreev Soft",Sports,0.33
+Monumental Games,Racing,0.62
+Climax Entertainment,Strategy,0.39
+"Aspect, Takara Tomy",Action,0.22
+Secret Stash Games,Shooter,0.22
+GungHo,Role-Playing,0.45
+Beyond Reality,Racing,0.38
+Fall Line Studio,Misc,0.43
+SoftMax,Role-Playing,0.22
+Bit Town,Simulation,0.22
+Phoenix Entertainment,Action,0.22
+Career Soft,Role-Playing,0.33
+Ubisoft Sao Paulo,Simulation,0.22
+Stealth Studios,Racing,0.28
+Mobius Entertainment,Misc,0.37
+Pseudo Interactive,Racing,0.58
+Rhino Studios,Adventure,0.22
+Ivory Tower,Racing,0.36
+Backbone Vancouver,Misc,0.59
+Irem,Action,0.67
+Kodiak Interactive,Action,0.28
+Digital Fiction,Fighting,0.29
+MASA Group,Strategy,0.21
+Classic Media Distribution Limited,Adventure,0.4
+Swordfish Studios,Shooter,0.51
+ThatGameCompany,Adventure,0.21
+Creative Patterns,Simulation,0.21
+Osiris Studios,Fighting,0.21
+"Deep Silver, Sproing Interactive Media, Sproing",Adventure,0.21
+Gunnar Games,Puzzle,0.39
+2XL Games,Racing,0.41
+Super X Studios,Shooter,0.49
+"Jellyvision, Iron Galaxy Studios",Misc,0.6
+Bongfish,Sports,0.25
+Cranky Pants Games,Action,0.37
+Sun-Tec,Fighting,0.21
+Alpha Unit,Action,0.24
+Gimagin Games,Simulation,0.21
+"Sanzaru Games, Sanzaru Games, Inc.",Action,0.2
+CCP,Role-Playing,0.3
+Hitmaker,Racing,0.42
+"SCEA, Think and Feel",Fighting,0.2
+"MicroProse, n-Space",Misc,0.32
+Studio Saizensen,Action,0.23
+Ubisoft Annecy,Role-Playing,0.2
+Pyro Studios,Action,0.85
+WideScreen Games,Shooter,0.34
+Gaming Minds Studios,Simulation,0.36
+"Omega Force, Koei Canada",Action,0.2
+Aspyr,Simulation,0.35
+Cauldron Ltd.,Shooter,0.66
+"Sega, Tom Create",Role-Playing,0.2
+Mad Catz,Misc,0.27
+Examu,Fighting,0.52
+Merscom LLC,Adventure,0.2
+Vivendi Games,Platform,0.37
+RFX Interactive,Action,0.42
+FeelPlus,Action,0.56
+Spiders,Role-Playing,0.28
+GCP1,Misc,0.19
+Nordcurrent,Puzzle,0.3
+Zono Inc.,Strategy,0.27
+Software Creations,Sports,0.34
+Pixel Tales,Sports,0.19
+Magic Rings,Role-Playing,0.19
+"Artificial Mind and Movement, EA Redwood Shores",Action,0.19
+Santa Cruz Games,Action,0.41
+Seta Corporation,Shooter,0.33
+BottleRocket Entertainment,Action,0.25
+Skip Ltd.,Adventure,0.19
+SME Dynamic Systems Limited,Simulation,0.19
+Game Sauce,Racing,0.24
+Cinemaware,Strategy,0.19
+Games Farm,Simulation,0.3
+"Ubisoft, Ludia Inc.",Misc,0.19
+Tecmo Koei Canada,Action,0.19
+Spellbound,Role-Playing,0.32
+Buena Vista Games,Action,0.27
+Independent Arts,Adventure,0.19
+Panic Button,Simulation,0.38
+Jack of All Games,Misc,0.54
+Escape,Racing,0.18
+Mad Doc Software,Simulation,0.27
+Kronos Digital Entertainment,Action,0.18
+Coyote Developments,Shooter,0.37
+5pb,Adventure,0.52
+NaturalMotion,Sports,0.35
+Hydravision,Adventure,0.56
+Marvelous Inc.,Action,0.9
+Big Ant Studios,Racing,0.45
+Performance Designed Products,Puzzle,0.18
+Backbone Emeryville,Sports,0.19
+"Gust, Idea Factory",Role-Playing,0.18
+Lost Toys,Action,0.23
+UFO Interactive,Misc,0.76
+OneNine Studios,Adventure,0.26
+Gogii Games,Adventure,0.28
+"Eighting, Takara Tomy",Action,0.18
+Bitmap Brothers,Sports,0.18
+Koei Tecmo Games,Action,1.01
+"Replay Studios, ML Enterprises",Shooter,0.18
+"Namco Bandai Games, Cellius",Racing,0.17
+Magellan Interactive,Puzzle,0.44
+SimBin,Racing,0.26
+Swingin' Ape,Shooter,0.27
+Funcom,Role-Playing,0.4
+Konami Computer Entertainment Nagoya,Sports,0.17
+Joindots,Puzzle,0.17
+Asylum Entertainment,Adventure,0.19
+Jaleco Entertainment,Strategy,0.55
+Deep Silver,Puzzle,0.66
+EKO Software,Action,0.52
+"Playlogic, The Game Factory",Action,0.34
+Experience Inc.,Role-Playing,0.31
+Human Entertainment,Adventure,0.17
+Kemco,Action,0.41
+Kylotonn,Action,0.35
+Stalker Entertainment,Shooter,0.17
+Renegade Kid,Shooter,0.41
+Eiconic Games,Puzzle,0.17
+DMi Games,Sports,0.17
+"Blitz Games, Human Soft",Platform,0.17
+Game Life,Misc,0.18
+Cyanide,Sports,0.41
+"Buddiez, Inc.",Puzzle,0.16
+Lucas Learning,Racing,0.16
+"Amaze Entertainment, Walt Disney Japan",Simulation,0.16
+"Sega, French-Bread",Fighting,0.16
+FireFly Studios,Strategy,0.42
+"Asmik Ace Entertainment, Inc",Simulation,0.16
+WinkySoft,Adventure,0.35
+"Gearbox Software, WayForward",Action,0.16
+Ludia,Misc,0.16
+Darkworks,Action,0.33
+Hudson Entertainment,Adventure,0.52
+Namco Bandai Games America,Misc,0.37
+"Omiya Soft, Jamsworks",Role-Playing,0.16
+10tacle Studios,Sports,0.16
+"Disney Interactive Studios, Land Ho!",Misc,0.28
+Lexis Numerique,Sports,0.37
+"Atari, Transmission Games, Atari SA",Simulation,0.16
+System 3,Platform,0.41
+eGames,Action,0.31
+"Sony Online Entertainment, Mind Control Software",Strategy,0.16
+Carbine Studios,Role-Playing,0.16
+Tenky,Adventure,0.16
+N-Fusion Interactive Entertainment Corp.,Action,0.36
+Taniko,Action,0.35
+"Compile Heart, GCREST",Role-Playing,0.15
+Broadsword Interactive,Racing,0.23
+"Game Arts, Seta Corporation",Shooter,0.15
+Aqua Plus,Role-Playing,0.15
+Croteam,Shooter,0.33
+Zombie,Shooter,0.15
+Le Cortex,Misc,0.15
+The Game Factory,Misc,0.32
+THQ Australia,Action,0.27
+Ubisoft Nagoya,Simulation,0.25
+Hypnos,Action,0.15
+Interchannel,Puzzle,0.3
+Daedalic Entertainment,Adventure,0.35
+"Genki, Kojima Productions",Action,0.15
+Warner Bros. Interactive Entertainment,Action,0.15
+Her Interactive,Adventure,0.29
+Nordic Games Publishing,Racing,0.37
+"THQ, Altron",Action,0.15
+Netherock Ltd.,Shooter,0.15
+Felistella,Role-Playing,0.15
+"Armature Studio, comcept",Action,0.15
+Ubisoft Bulgaria,Misc,0.29
+Re-Logic,Action,0.23
+Two Tribes,Puzzle,0.29
+Sick Puppies,Puzzle,0.14
+Firehazard Studio,Puzzle,0.2
+Nicalis,Platform,0.14
+Tommo,Puzzle,0.2
+Zerodiv,Role-Playing,0.27
+Liquid Entertainment,Action,0.28
+Sting,Role-Playing,1.25
+Mix Max,Misc,0.22
+"Sandlot Games, Digital Embryo",Simulation,0.14
+Microvision,Role-Playing,0.26
+Million,Sports,0.29
+Ntreev Soft,Sports,0.14
+Dorasu,Simulation,0.14
+Epics,Misc,0.21
+Westwood Studios,Adventure,0.2
+FrontLine Studios,Puzzle,0.42
+Studio 33,Racing,0.27
+Bohemia Interactive,Shooter,0.32
+Colossal Order,Simulation,0.2
+Flight-Plan,Role-Playing,0.29
+Yacht Club Games,Platform,0.32
+Seven45 Studios,Misc,0.26
+TopWare Interactive,Misc,0.17
+The Fun Pimps Entertainment LLC,Action,0.19
+Astroll,Misc,0.14
+Next Entertainment,Role-Playing,0.14
+Legacy Interactive,Simulation,0.37
+Transmission Games,Simulation,0.14
+"K2, Kurogane",Role-Playing,0.14
+Gaijin Games,Misc,0.23
+Culture Brain,Platform,0.14
+"Beenox, Other Ocean Interactive",Action,0.14
+Tripwire Interactive,Shooter,0.19
+JV Games Inc.,Shooter,0.13
+Top Heavy Studios,Misc,0.2
+Dreamcatcher,Action,0.88
+DSI Games,Misc,0.23
+"Ubisoft, Moss",Misc,0.13
+"Atari, Atari SA",Action,0.24
+"Pam Development, 2K Sports",Action,0.13
+"Microids, Dreamcatcher",Action,0.13
+Virtual Air Guitar Company,Action,0.13
+"Big Blue Bubble Inc., Scholastic, Inc.",Puzzle,0.13
+"Venan Entertainment, Cashmere Prod.",Strategy,0.13
+Sunflowers Interactive,Simulation,0.13
+"Rocksteady Studios, Iron Galaxy Studios",Action,0.13
+Deck 13,Role-Playing,0.3
+IR Gurus Interactive Ltd.,Simulation,0.13
+"Phosphor Games Studio, LLC",Action,0.13
+Slam Games,Puzzle,0.2
+Outrage Games,Shooter,0.3
+Platinum Egg,Puzzle,0.19
+Attention Software,Racing,0.13
+Premium Agency,Action,0.13
+Syscom,Simulation,0.13
+GlyphX Games,Action,0.13
+ACOT,Sports,0.13
+Axis Entertainment,Racing,0.17
+Hot Lava Games,Puzzle,0.13
+Nfusion,Shooter,0.13
+eV Interactive,Sports,0.13
+Kokolo Corporation,Misc,0.13
+Curly Monsters,Racing,0.13
+Curious Pictures,Misc,0.24
+Psikyo,Shooter,0.12
+Tiertex Design Studios,Action,0.12
+Graffiti Entertainment,Misc,0.24
+Deep Fried Entertainment,Sports,0.21
+Warashi,Puzzle,0.12
+Beep Industries,Platform,0.12
+I-Imagine,Racing,0.12
+Stormregion,Strategy,0.16
+"Mindscape Inc., Mindscape",Misc,0.12
+Kung Fu Factory,Fighting,0.2
+"Game Arts, Japan Art Media (JAM)",Role-Playing,0.12
+Midway Studios - Newcastle,Racing,0.12
+Infogrames,Platform,0.14
+BIP Games,Simulation,0.12
+EM Studios,Racing,0.15
+Acclaim Studios Manchester,Action,0.17
+"Prope, Kadokawa",Action,0.16
+Cosmigo,Misc,0.28
+Zeroscale,Sports,0.12
+Moss,Shooter,0.23
+369 Interactive,Adventure,0.12
+puzzle.tv,Puzzle,0.12
+Visual Sciences,Racing,0.12
+Animation Arts,Adventure,0.11
+Razorback Developments,Action,0.36
+"Nippon Ichi Software, Hit Maker",Role-Playing,0.11
+Tactical Development,Shooter,0.11
+"Artificial Studios, Immersion Software & Graphics",Shooter,0.11
+Empire Oxford,Misc,0.23
+Most Wanted Entertainment,Puzzle,0.19
+"Funatics Software, Funatics",Strategy,0.2
+Microsoft Game Studios Japan,Action,0.11
+SNK,Fighting,0.26
+Black Hole Games,Strategy,0.14
+Frima Studio,Strategy,0.21
+Agatsuma Entertainment,Simulation,0.11
+"EA Tiburon, n-Space",Shooter,0.11
+Halfbrick Studios,Platform,0.16
+WorkJam,Adventure,0.19
+Void Productions,Adventure,0.11
+Trickstar Games,Simulation,0.24
+Santa Entertainment,Adventure,0.11
+Digital Embryo,Puzzle,0.2
+Micro Cabin,Simulation,0.19
+Big Head Games Ltd.,Misc,0.11
+Guildford Studio,Shooter,0.22
+Big Blue Entertainment,Shooter,0.11
+"Amaze Entertainment, Vivendi Games",Action,0.11
+Supersonic Software,Puzzle,0.18
+Bionic Games,Action,0.11
+Various,Misc,0.19
+Amanita Design,Adventure,0.14
+"Aqua Pacific, In2Games",Sports,0.14
+BeeWorks,Adventure,0.2
+Mere Mortals,Sports,0.11
+Coyote Console,Racing,0.5
+Happy Happening,Puzzle,0.12
+Zed Two Limited,Puzzle,0.2
+Pentavision Entertainment,Misc,0.11
+XPEC Entertainment Inc.,Adventure,0.11
+Behavior Studios,Action,0.11
+Immersion Software & Graphics,Fighting,0.16
+Gameinvest,Action,0.16
+Vanguard,Simulation,0.11
+Koolhaus Games,Sports,0.3
+Idea Factory,Role-Playing,0.34
+KING Art,Adventure,0.19
+"Deep Silver, Keen Games",Role-Playing,0.1
+Microids,Adventure,0.37
+Koei/Inis,Sports,0.15
+"Seamless Entertainment, Inc.",Sports,0.1
+Petroglyph,Strategy,0.21
+"Joindots, Mastertronic",Puzzle,0.1
+Arts Software,Action,0.1
+Raylight Studios,Action,0.24
+"Monolith Soft, Namco Bandai Games",Role-Playing,0.1
+Digital Mayhem,Shooter,0.2
+Pronto Games,Action,0.12
+"RED Entertainment, Compile Heart",Strategy,0.1
+Global A,Role-Playing,0.2
+Clockwork Games,Racing,0.12
+The Behemoth,Shooter,0.19
+Hoplite Research,Adventure,0.11
+Ivolgamus,Misc,0.14
+Doki Denki,Platform,0.15
+"THQ, AWE Games",Puzzle,0.1
+Starsphere Interactive,Simulation,0.14
+Other Ocean Interactive,Fighting,0.28
+Kadokawa,Role-Playing,0.28
+Milestone,Racing,0.12
+Loose Cannon Studios,Action,0.27
+B.B.Studio,Action,0.1
+Scientifically Proven,Action,0.18
+8Monkey Labs,Shooter,0.1
+"Crave, DTP Entertainment",Misc,0.09
+odenis studio,Strategy,0.09
+Realmforge Studios,Strategy,0.09
+Freedom Factory Studios,Action,0.13
+Atomic Motion,Shooter,0.11
+Sarbakan Inc.,Strategy,0.09
+Black Ship Games,Fighting,0.15
+Gravity-I,Puzzle,0.13
+"Entersphere, Inc.",Action,0.09
+Infinite Machine,Action,0.09
+Deadline Games,Shooter,0.13
+Silicon Dreams,Action,0.17
+Aqua Pacific,Sports,0.09
+ProSoft,Shooter,0.09
+Isopod Labs,Racing,0.24
+"Activision, Activision Blizzard",Simulation,0.09
+"SCE/WWS, SCE Japan Studio",Puzzle,0.09
+"Mastertronic, V5 Play Studio",Puzzle,0.09
+"Spark Unlimited, comcept",Action,0.14
+"Ambrella, The Pokemon Company",Action,0.09
+"Neverland, Idea Factory",Role-Playing,0.19
+Hit Maker,Role-Playing,0.22
+"Red Tribe, Brash Entertainment",Platform,0.15
+Metro3D,Role-Playing,0.09
+Blue Omega,Shooter,0.16
+Zushi Games Ltd,Misc,0.09
+2K Play,Misc,0.13
+Housemarque,Sports,0.09
+"EA Canada, Exient Entertainment",Sports,0.09
+"Activision, Traveller's Tales",Misc,0.09
+O-Games,Puzzle,0.23
+"Jack of All Games, eV Interactive",Sports,0.09
+S-Neo,Sports,0.16
+G1M2,Misc,0.09
+"TimeGate Studios, Day 1 Studios",Shooter,0.09
+iRock Interactive,Shooter,0.09
+Climax Studios,Action,0.17
+Little Orbit,Simulation,0.27
+Tabot,Sports,0.09
+Indi,Strategy,0.09
+ECI,Misc,0.08
+SilverBirch Studios,Simulation,0.08
+Valcon Games,Racing,0.08
+Gulti,Shooter,0.08
+Tectonic Studios,Action,0.08
+"EA Canada, Sensory Sweep",Fighting,0.08
+Wide Games,Adventure,0.08
+Amedio,Role-Playing,0.08
+NATSUME ATARI Inc.,Puzzle,0.1
+Digital Leisure Inc.,Shooter,0.08
+Noise Factory,Shooter,0.13
+Mobile 21,Shooter,0.08
+Maximum Family Games,Puzzle,0.08
+Foundation 9 Entertainment,Platform,0.08
+B-Alive,Simulation,0.11
+Icon Games,Racing,0.18
+Kando Games,Simulation,0.11
+DTP Entertainment,Sports,0.32
+Telenet,Sports,0.08
+Osaka Studio,Simulation,0.08
+Kheops Studio,Puzzle,0.08
+"Namco Bandai Games, Monkey Bar Games",Platform,0.21
+UGA,Misc,0.13
+Toka,Shooter,0.08
+Egosoft,Simulation,0.11
+Mid Carolina Media,Sports,0.08
+Velez & Dubail,Action,0.16
+"THQ, Independent Arts",Simulation,0.08
+Mekensleep,Puzzle,0.08
+"Milestone, Milestone S.r.l",Racing,0.09
+Wicked Studios,Role-Playing,0.08
+Revistronic,Action,0.08
+MileStone Inc.,Shooter,0.1
+Metropolis Software,Shooter,0.08
+Anchor Bay Entertainment,Sports,0.08
+"Spike Chunsoft, Chime",Adventure,0.14
+Pinegrow,Strategy,0.08
+Ubisoft Barcelona,Misc,0.08
+Roxor Games,Misc,0.07
+Success,Role-Playing,0.28
+Fatshark AB,Action,0.14
+Runic Games,Role-Playing,0.07
+Neopica,Action,0.08
+Trine Games,Misc,0.12
+SpiderMonk,Puzzle,0.07
+Koei Canada,Action,0.07
+Paradox Development Studio,Strategy,0.19
+Direct Action Games,Shooter,0.1
+5000ft,Misc,0.1
+Awesome Play Ltd.,Racing,0.07
+"Art Co., Ltd.",Shooter,0.07
+StudioBlack Games,Misc,0.07
+exozet,Action,0.07
+Yoostar Entertainment Group,Misc,0.07
+Vogster,Strategy,0.07
+Skonec,Action,0.07
+ZeptoLab,Puzzle,0.07
+G-Artists,Adventure,0.13
+Idol FX,Shooter,0.07
+Goshow,Role-Playing,0.07
+Leviathan Games,Shooter,0.07
+Box Clever Interactive,Strategy,0.07
+Attractive Games,Simulation,0.07
+Sabertooth Games,Action,0.07
+"Ubisoft, FunHouse",Adventure,0.07
+Enterbrain,Fighting,0.07
+Universomo,Misc,0.07
+Global Star Software,Puzzle,0.08
+"Metanet Software Inc., SilverBirch Studios",Platform,0.1
+Purple Hills,Puzzle,0.09
+Interactive Brains,Action,0.07
+Doublesix,Simulation,0.07
+Synetic,Racing,0.07
+Jupiter Multimedia,Misc,0.07
+Epicenter Interactive,Misc,0.07
+Interplay,Role-Playing,0.12
+Monte Cristo Multimedia,Strategy,0.13
+Plato,Misc,0.07
+Silver Wish Games,Simulation,0.06
+Runtime,Role-Playing,0.06
+Gammick Entertainment,Strategy,0.06
+DiP Interactive,Simulation,0.06
+Klein Computer Entertainment,Action,0.08
+"IronNos Co.,Ltd.",Role-Playing,0.06
+DreamRift,Platform,0.06
+Snapdragon,Simulation,0.06
+Brainbox Games,Shooter,0.06
+Kunos Simulazioni,Racing,0.08
+MBA International,Simulation,0.06
+"505 Games, Sarbakan Inc.",Platform,0.06
+Nikitova Games,Fighting,0.14
+Extra Mile Studios,Racing,0.08
+Nitro+,Adventure,0.06
+"Humongous Entertainment, Mistic Software",Adventure,0.06
+Mystic Software,Role-Playing,0.06
+Sonic Powered,Simulation,0.16
+Whitebear,Puzzle,0.1
+EA Japan Studio,Simulation,0.06
+Headfirst Productions,Adventure,0.06
+Pendulo Studios,Adventure,0.12
+Mikoishi,Puzzle,0.06
+Conspiracy Entertainment,Action,0.16
+"10tacle Studios, Fusionsphere Systems",Adventure,0.11
+Arkedo Studio,Shooter,0.08
+Farmind Ltd,Misc,0.06
+GSC Game World,Shooter,0.19
+Midas Interactive Entertainment,Sports,0.06
+BattleBorne,Shooter,0.09
+Valhalla Game Studios,Action,0.06
+Quicksilver Software,Strategy,0.09
+"Treyarch, Infinity Ward",Shooter,0.06
+"Orbital Media, Inc.",Racing,0.12
+"Left Field Productions, Zoo Games",Racing,0.06
+Anino Entertainment,Puzzle,0.06
+SingleTrac,Action,0.06
+"Rebellion, Neversoft Entertainment",Action,0.06
+"Dimps Corporation, Dream Execution",Simulation,0.06
+Design Factory,Adventure,0.06
+Andamiro U.S.A. Corp.,Misc,0.08
+KnowWonder,Action,0.11
+Zoonami Ltd.,Puzzle,0.06
+Aquria,Role-Playing,0.06
+Cave Barn,Action,0.06
+Radius9,Puzzle,0.06
+Zig Zag,Simulation,0.08
+"Eutechnyx, Deep Silver",Racing,0.1
+Iron Lore Entertainment,Role-Playing,0.06
+Ninja Studio,Role-Playing,0.06
+Slitherine,Strategy,0.05
+Fluid Studios,Strategy,0.06
+Codo Games,Strategy,0.05
+Red Wagon Games,Sports,0.05
+CI Games,Shooter,0.09
+Cowboy Rodeo,Simulation,0.05
+Cranberry Production,Adventure,0.05
+Playrix Entertainment,Puzzle,0.13
+LDW,Simulation,0.05
+Imagineer,Role-Playing,0.05
+Rising Star Games,Puzzle,0.26
+1C: Maddox Games,Simulation,0.09
+Fresh 3D,Sports,0.05
+Studio Archcraft,Role-Playing,0.05
+"THQ, 1C, 1C Company",Strategy,0.05
+Just For Fun,Sports,0.05
+"Eidos Interactive, Tantalus Interactive",Simulation,0.05
+Neon Studios,Action,0.05
+Blast! Entertainment Ltd,Adventure,0.07
+Navarre Corp,Adventure,0.05
+"Buka Entertainment, Targem Games",Shooter,0.05
+Ubisoft Porto Alegre,Simulation,0.05
+SmartDog,Racing,0.05
+Iridon Interactive AB,Puzzle,0.09
+"Next Level Games, Nintendo",Action,0.05
+"Taito Corporation, 505 Games",Misc,0.08
+One Man Band,Misc,0.05
+Carapace,Sports,0.05
+Big John Games,Simulation,0.06
+PuzzleKings,Puzzle,0.07
+Dusenberry Martin Racing,Racing,0.09
+Liquid Dragon Studios,Sports,0.05
+Tigon,Action,0.05
+Stainless Steel Studios,Strategy,0.05
+Braingame,Simulation,0.05
+Frame Studios Interactive,Puzzle,0.2
+Max Five,Role-Playing,0.05
+SouthPeak Games,Simulation,0.14
+VSTEP,Simulation,0.06
+Flying Tiger Development,Shooter,0.05
+Konami Software Shanghai,Role-Playing,0.05
+Bright Future GmbH,Sports,0.05
+Hyper-Devbox,Shooter,0.05
+SkyRiver Studios,Adventure,0.1
+Avit-Niigata,Sports,0.05
+KUNST-STOFF,Racing,0.05
+Killaware,Adventure,0.04
+"Torus Games, Little Orbit",Action,0.18
+F84 Games,Action,0.04
+InterActive Vision Games,Simulation,0.04
+SystemSoft,Strategy,0.04
+"Targem Games, TopWare Interactive",Misc,0.07
+G.Rev,Fighting,0.04
+Fusionsphere Systems,Adventure,0.04
+Opera House,Shooter,0.06
+Foreign Media,Puzzle,0.08
+"Examu, Marvelous Inc.",Fighting,0.04
+Gaslamp Games,Strategy,0.04
+"Capcom, QLOC",Shooter,0.06
+Ubisoft Osaka,Action,0.04
+Paprikari,Puzzle,0.04
+Snap Dragon Games,Platform,0.04
+7Raven Studios,Puzzle,0.04
+Wicked Witch Software,Sports,0.1
+Ascaron Entertainment GmbH,Strategy,0.09
+"Alawar Entertainment, Inc, Alawar Entertainment",Strategy,0.04
+Sabarasa Entertainment,Role-Playing,0.04
+"Atari, Slightly Mad Studios, Atari SA",Racing,0.04
+Nival Interactive,Strategy,0.04
+PopTop Software,Strategy,0.08
+Best Way,Strategy,0.07
+M4 Limited,Platform,0.04
+Hoget,Puzzle,0.04
+Delta Factory,Fighting,0.04
+Naps Team,Shooter,0.07
+XS Games,Misc,0.05
+"Alchemist, Inti Creates",Action,0.04
+Avalon Style,Racing,0.04
+Blue 52,Action,0.04
+Dovetail Games,Simulation,0.04
+Nightlight Studios,Shooter,0.04
+EnjoyUp Games,Shooter,0.04
+Tilted Mill,Strategy,0.06
+"Reloaded Productions, Reloaded Games Inc.",Role-Playing,0.04
+NoWay Studio,Shooter,0.04
+PQube,Sports,0.04
+System Prisma,Role-Playing,0.04
+CiRCLE,Shooter,0.06
+"Volition Inc., CD Projekt Red Studio, CD Projekt, CD Projekt Localisation Centre",Action,0.04
+"Frozenbyte, Inc.",Platform,0.05
+InLight Entertainment,Adventure,0.04
+Urban Games,Simulation,0.04
+2D Boy,Puzzle,0.04
+"Fusionsphere Systems, Animation Arts",Adventure,0.04
+Gaia (Sony),Role-Playing,0.04
+Ironclad Games,Strategy,0.07
+People Can Fly,Shooter,0.06
+Easy Interactive,Misc,0.08
+DreamCatcher Interactive,Role-Playing,0.03
+Enlight Software,Strategy,0.03
+Impressions Games,Strategy,0.05
+Ravenscourt,Puzzle,0.03
+Ice-Pick Lodge,Adventure,0.03
+BattleGoat Studios,Strategy,0.03
+"Viva Media, Viva Media, LLC",Puzzle,0.06
+"CyberPlanet Interactive Public Co., Ltd., Maximum Family Games",Puzzle,0.03
+LSP,Action,0.07
+Voxler,Action,0.03
+Super Empire,Platform,0.03
+"Volition Inc., Reactor Zero",Shooter,0.03
+"Eidos Montreal, Nixxes Software",Role-Playing,0.03
+Sonnori,Role-Playing,0.03
+Big Fish Games,Puzzle,0.06
+"1C, Ino-Co, 1C Company",Simulation,0.05
+Magnin & Associates,Misc,0.03
+"Edmund McMillen, Florian Himsl",Action,0.03
+Tiwak,Platform,0.03
+Zuxxez,Adventure,0.03
+Opus Studio,Role-Playing,0.03
+"Gameinvest, Seed Studios, Lda",Simulation,0.03
+"Introversion, Double Eleven",Action,0.04
+Big Time Software,Strategy,0.03
+Otomate,Action,0.05
+Mentor Interactive,Misc,0.04
+Magicpot,Puzzle,0.03
+Nitro Games,Strategy,0.08
+Confounding Factor,Action,0.03
+Will,Misc,0.03
+Eagle Dynamics,Simulation,0.03
+Black Sea Studios,Strategy,0.05
+Headup Games,Adventure,0.03
+"Engine Software, Re-Logic",Action,0.03
+"PM Studios Inc., Pentavision Entertainment",Misc,0.03
+zSlide,Puzzle,0.03
+Tragnarion Studios,Puzzle,0.03
+"Big Blue Bubble Inc., Breakthrough New Media",Puzzle,0.03
+Prograph,Sports,0.03
+Celeris,Sports,0.03
+NEC Interchannel,Strategy,0.03
+"Vicious Cycle, Little Orbit",Action,0.07
+Panther Software,Role-Playing,0.03
+"Number None Inc., Knockout Games",Platform,0.03
+Team6 Game Studios,Action,0.03
+Targem Games,Misc,0.03
+Still Alive Studios,Simulation,0.03
+Twelve Games,Platform,0.06
+"Machineworks Northwest, WXP",Shooter,0.03
+Headlock,Adventure,0.03
+"Activision, Behaviour Interactive",Action,0.06
+Arrowhead Game Studios,Role-Playing,0.03
+Mastertronic,Adventure,0.03
+Sandlot Games,Puzzle,0.03
+EC Interactive Games,Misc,0.03
+"Frontier Developments, Various",Strategy,0.03
+Crea-Tech,Role-Playing,0.03
+Glyphic Entertainment,Platform,0.05
+Cyber Planet,Simulation,0.03
+ZigZagIsland,Sports,0.03
+Paradox Interactive,Adventure,0.07
+"Neon Studios, Kaiko",Action,0.04
+Gameness Art Software,Fighting,0.02
+Dracue,Shooter,0.02
+Mindware Studios,Shooter,0.02
+EA Mythic,Role-Playing,0.02
+"Atomic Planet Entertainment, Mud Duck Productions",Sports,0.02
+Minds-Eye Productions,Strategy,0.02
+SEK Ost,Strategy,0.02
+Autumn Moon,Adventure,0.04
+The Tangentlemen,Adventure,0.02
+Multimedia Intelligence Transfer,Role-Playing,0.02
+Rainbow S.p.A.,Adventure,0.02
+Cryptic Studios,Role-Playing,0.02
+"Edge Entertainment, Anima Project",Action,0.02
+FAKT Software,Puzzle,0.02
+"1C, 1C Company",Simulation,0.03
+Boxed Dream,Action,0.02
+Lead Pursuit,Simulation,0.02
+"Punchline, Shirogumi",Action,0.02
+"The Digital Lounge, Dino Dini",Sports,0.02
+Beluga Computer,Simulation,0.02
+Kat Games,Adventure,0.02
+Strawdog Studios,Puzzle,0.02
+InterServ International,Fighting,0.02
+Trendy Entertainment,Role-Playing,0.02
+"United Coders, Wizardry Engineering",Platform,0.02
+Melesta,Strategy,0.02
+Alternative Software,Action,0.02
+"Mediascape, CUBETYPE",Shooter,0.02
+JoWooD Entertainment AG,Strategy,0.02
+Master Creating,Role-Playing,0.02
+Small Rockets,Sports,0.02
+Mana Comp. Soft.,Shooter,0.02
+Phenomedia,Shooter,0.02
+Touchdown Entertainment,Shooter,0.02
+Turbine Inc.,Role-Playing,0.02
+Playstos Entertainment,Platform,0.04
+Enigma Software Productions,Strategy,0.02
+Nvizzio Creations,Simulation,0.02
+"Unigine Corp, Russia",Strategy,0.02
+Flagship Studios,Role-Playing,0.02
+ApolloSoft,Role-Playing,0.02
+Ancient,Role-Playing,0.02
+Zoo Digital Publishing,Puzzle,0.02
+"UFO Interactive, CyberPlanet Interactive Public Co., Ltd.",Shooter,0.02
+Infogrames Sheffield,Strategy,0.02
+1C:Ino-Co,Strategy,0.04
+"Headup Games, Crenetic Studios",Strategy,0.02
+Tose Software,Shooter,0.02
+Pterodon,Shooter,0.02
+Strangelite,Shooter,0.02
+Deep Red,Strategy,0.02
+PAWS,Action,0.02
+White Birds Productions,Adventure,0.02
+Agetec,Puzzle,0.02
+Farsight Technologies,Sports,0.02
+Tranji,Action,0.02
+Planet Interactive,Action,0.03
+"Vicious Cycle, Infinite Interactive",Puzzle,0.02
+"Telegames, Inc.",Puzzle,0.02
+"Sanuk Software Co., Ltd., Sanuk Games",Platform,0.02
+GameCo,Adventure,0.02
+Oberon Media,Adventure,0.03
+Virtual Play Inc.,Sports,0.02
+"Yuke's, Yuke's Company of America",Puzzle,0.02
+Funbox Media,Shooter,0.02
+Babylon Software,Racing,0.03
+Metia Interactive,Puzzle,0.02
+Flying Lab Software,Role-Playing,0.02
+Vanpool,Misc,0.04
+Squashy Software,Shooter,0.02
+Hokus Pokus,Sports,0.02
+oeFun,Puzzle,0.02
+Tate Interactive,Platform,0.04
+ChaYoWo Games,Puzzle,0.02
+Boomzap,Action,0.02
+Logris Games,Action,0.02
+Ino-Co,Strategy,0.02
+Red 5 Software,Role-Playing,0.02
+"CyberPlanet Interactive Public Co., Ltd.",Misc,0.02
+Elixir Studios,Strategy,0.02
+The Odd Gentlemen,Adventure,0.02
+Compulsion Games,Platform,0.01
+"Camouflaj, LLC",Action,0.01
+777 Studios,Simulation,0.01
+Subterranean Games,Strategy,0.01
+"Interworks Unlimited, Inc.",Sports,0.01
+Black Bean Games,Racing,0.01
+"DMA Design, Rockstar North",Action,0.01
+King of the Jungle,Racing,0.02
+"Spidersoft, Spiders",Role-Playing,0.01
+"1C, Various, 1C Company",Strategy,0.01
+"Tecmo, Graphic Research",Simulation,0.01
+TML-Studios,Simulation,0.01
+"Battlefront.com, 1C, 1C Company",Strategy,0.01
+Blue Tea Games,Puzzle,0.01
+EA Phenomic,Strategy,0.01
+Empty Clip Studios,Puzzle,0.01
+Next Wave Team,Puzzle,0.01
+Triple Eh? Ltd,Puzzle,0.01
+TDK Mediactive,Action,0.01
+Headgate,Sports,0.01
+dtp Young Entertainment AG,Simulation,0.01
+Coffee Stain Studios,Simulation,0.01
+Societe Pollene,Adventure,0.01
+Boston Animation,Adventure,0.01
+React Games,Action,0.01
+"Bigben Interactive, Red Wagon Games",Racing,0.01
+Papyrus,Racing,0.01
+Inferno Games,Sports,0.01
+Katauri Interactive,Role-Playing,0.01
+"High Moon Studios, Mercenary Technologies",Action,0.01
+"Infinite Dreams, Paragon 5",Racing,0.01
+Big Red Software,Strategy,0.01
+Atomic Games,Shooter,0.01
+Interchannel-Holon,Puzzle,0.01
